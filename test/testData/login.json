@@ -1,0 +1,13 @@
+{
+    "validuser": {
+        "userName": "test",
+        "email": "test@gmail.com",
+        "password": "12345678"
+    },
+    "noreguser": {
+        "userName": "test1",
+        "email": "test1@gmail.com",
+        "password": "87654321"
+    },
+    "textLogin": "login"
+}
