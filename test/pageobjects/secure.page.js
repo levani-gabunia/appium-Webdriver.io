@@ -1,10 +1,10 @@
 import { $ } from '@wdio/globals'
-import Page from './page.js';
+import mainPage from './page.js';
 
 /**
  * sub page containing specific selectors and methods for a specific page
  */
-class SecurePage extends Page {
+class SecurePage extends mainPage {
     /**
      * define selectors using getter methods
      */
